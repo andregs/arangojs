@@ -75,7 +75,7 @@
     "snazzy": "6.0.0",
     "standard": "8.6.0",
     "watch": "1.0.1",
-    "webpack": "1.14.0"
+    "webpack": "2.2.1"
   },
   "contributors": [
     {
